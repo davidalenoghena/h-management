@@ -45,9 +45,6 @@
 
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="blog.html">Blog</a>
-              </li>
-              <li class="nav-item">
                 <a class="nav-link" href="about.html">About</a>
               </li>
               <li class="nav-item">
@@ -55,7 +52,7 @@
               </li>
 
                <li class="nav-item cta">
-                <a class="nav-link" href="booknow.html"><span>Book Now</span></a>
+                <a class="nav-link" href="/booknow"><span>Book Now</span></a>
               </li>
             </ul>
             
